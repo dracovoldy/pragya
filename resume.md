@@ -1,42 +1,37 @@
-# PRAGYA BISWAS: UI/UX Designer
+# PRAGYA BISWAS: UX Designer
 
 ### SUMMARY
-- My purpose is to bring fresh ideas and approaches to both teaching methods and design projects.  
-- Continuously seeking new knowledge and staying up-to-date with design trends.  
-- Balancing teaching, research, and administrative responsibilities in an educational setting.  
-- A detail-oriented designer skilled in sketching, illustration, and wireframing.  
-- I excel in creating innovative, user-centered solutions.  
-- My empathy and collaborative abilities drive meaningful design.  
-- Skilled in analyzing the evolution of visual media (print, film, advertising, and digital platforms).  
-- Committed to societal impact, developing efficient, sustainable solutions through thorough research and strategic thinking.  
+- Motivated UX Designer with a strong background in user-centered design methodologies, including usability tests, cognitive walkthroughs, heuristics evaluations, and task analysis.  
+- Skilled at coordinating across interdisciplinary teams to gather requirements, create information architecture, and produce high/low fidelity wireframes and interactive prototypes.  
+- Balances teaching, research, and administrative work by merging advanced HCI principles with empathy and creativity.  
+- Strong communication skills, both written and oral, in presenting innovative concepts and deliverables to team members and stakeholders.  
 
 ---
 
 ### CONTACT INFORMATION
-| Phone             | Email                                  | Location         |
-| ----------------- | -------------------------------------- | ---------------- |
-| +91 9558251968    | [pragya.biswas22@gmail.com](mailto:pragya.biswas22@gmail.com) | Jaipur, Rajasthan |
+| Phone             | Email                                  | Location                |
+| ----------------- | -------------------------------------- | ----------------------- |
+| +91 9558251968    | [pragya.biswas22@gmail.com](mailto:pragya.biswas22@gmail.com) | Mumbai (Open to Reloc.) |
 
 ---
 
 ### KEY SKILLS
-- Leadership  
-- Problem Solving  
-- Active Listening  
-- Teamwork  
-- Creativity  
-- Critical Listening  
-- Flexibility  
-- Time Management  
+- UX Research (surveys, user interviews, competitor analysis)  
+- Usability Testing & Cognitive Walkthroughs  
+- Heuristic Evaluations & Task Analysis  
+- Information Architecture & Wireframing  
+- Advanced HCI Principles (HTML prototypes, interaction design)  
+- Leadership & Team Collaboration  
+- Time Management & Communication  
 
 ---
 
 ### TOOLS
 - Figma  
+- Axure (wireframing & prototyping)  
 - MS-Office  
 - CorelDRAW  
-- Canva  
-- Miro  
+- Canva, Miro (collaboration, storyboards)  
 - SketchUp  
 
 ---
@@ -44,9 +39,10 @@
 ### SKILL SET
 - UI/UX  
 - Visual Design  
-- Research  
+- Research & Competitor Analysis  
 - Graphic Design  
 - Visual Merchandising  
+- HTML Prototyping  
 
 ---
 
@@ -61,33 +57,40 @@
 
 #### College Dekho (ImaginXp) – Jaipur 
 (July 2023 – Present)  
-Assistant Professor in UI/UX Department  
-- Teach and mentor students on UI/UX principles, best practices, and design processes.
+*Assistant Professor in UI/UX Department*  
+- Perform and teach usability tests, cognitive walkthroughs, and heuristic evaluations for student-led projects.  
+- Guide students in applying task analysis to real-world case studies.  
+- Review and mentor students on wireframing best practices using Axure and Figma.
 
 #### Event Assistant – Jaipur 
 (May 2023)  
-Panash, Encode (Vivekanand Global University) Job Fair (College Dekho)  
-- Coordinated event logistics and supported on-site participants.
+*Panash, Encode (Vivekanand Global University) Job Fair (College Dekho)*  
+- Coordinated event logistics, ensuring a seamless schedule for presenters and participants.  
+- Supported design presentations and interactive sessions with prospective students.
 
 #### Blur the Border – Mumbai 
 (January 2023 – May 2023)  
-Intern – Researcher for Strategizing Content  
-- Conducted user and market research to inform content strategy initiatives.
+*Intern – Researcher for Strategizing Content*  
+- Conducted usability surveys and user interviews to enhance digital products.  
+- Supported the creation of high-level storyboards based on research findings.
 
 #### Achievers Choice – Vadodara 
 (June 2019 – March 2020)  
-Graphic Designer and Community Assistant  
-- Designed marketing materials and assisted with community outreach.
+*Graphic Designer and Community Assistant*  
+- Assisted in competitor analysis and developed design solutions for marketing materials.  
+- Created wireframes and mockups for community service projects.
 
 #### Nilkamal @ Home (Head Office) – Mumbai 
 (June 2022 – December 2022)  
-Intern – Visual Merchandising Department  
-- Collaborated on store layouts, product displays, and merchandising strategies.
+*Intern – Visual Merchandising Department*  
+- Collaborated on information architecture for improving product displays and store layouts.  
+- Supported design reviews by producing low-fidelity prototypes and collecting feedback.
 
 #### Nilkamal @ Home (Vadodara Store) – Vadodara 
 (February 2019 – March 2019)  
-Intern – Visual Merchandiser  
-- Assisted with in-store visuals, promotional displays, and product placement.
+*Intern – Visual Merchandiser*  
+- Assisted with in-store merchandising strategies and iterative design reviews.  
+- Proposed solutions to boost user engagement and enhance customer journey flow.
 
 ---
 
@@ -95,21 +98,25 @@ Intern – Visual Merchandiser
 
 #### NIFT, Kannur 
 (2021 – 2023)  
-Masters of Design, Specialization in UI/UX Design  
-- Gained advanced knowledge of user experience design, research methodologies, and product development.  
+*Masters of Design, Specialization in UI/UX Design*  
+- Gained advanced HCI knowledge and conducted usability tests for academic projects.  
+- [Placeholder for key academic work, publications, or major projects]
 
 #### Maharaja Sayajirao University of Baroda, Vadodara 
 (2016 – 2019)  
-Bachelor of Science in Fashion Communication  
-- Explored principles of design, branding, and visual communication.  
+*Bachelor of Science in Fashion Communication*  
+- Explored principles of branding, user research, and digital communication design.  
+- [Placeholder for notable coursework, internships, or achievements]
 
 #### Kendriya Vidyalaya  
 (2014 – 2016)  
-12th Commerce, CBSE Board (House Captain)  
+*12th Commerce, CBSE Board (House Captain)*  
+- [Placeholder for leadership highlights, extracurricular activities, or any awards]
 
 #### Kendriya Vidyalaya  
 (2014)  
-10th CBSE Board  
+*10th CBSE Board*  
+- [Placeholder for any significant academic or extracurricular recognition]
 
 ---
 
